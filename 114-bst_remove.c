@@ -21,7 +21,7 @@ bst_t *inorder_successor(bst_t *root)
 /**
  * bst_delete - deletes a node from a binary tree
  * @root: pointer to the root node of the BST
- * @node pointre to delete from the BST
+ * @node: pointre to delete from the BST
  * Return: pointer to the new root node after deletion
  */
 
